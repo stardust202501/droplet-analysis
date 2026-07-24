@@ -1,0 +1,7 @@
+__pycache__/
+.numba_cache/
+*.py[cod]
+droplet_results/
+*_droplet_results/
+.idea/
+.vscode/
